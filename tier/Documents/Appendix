@@ -1,0 +1,6 @@
+Zmienne:
+iso2 - informacja o kraju pacjenta
+year - data badania
+sex - płeć pacjenta
+age - wiek pacjenta
+cases - ilość przypadków w każdej badanej grupie
