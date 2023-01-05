@@ -18,8 +18,8 @@ Odpowiedzi na pytania:
 
 5. Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)?
 
--Queens: 30
--Brooklyn: 23
--Staten Island: 24
--The Bronx: 24
+-Queens: 30 <br>
+-Brooklyn: 23<br>
+-Staten Island: 24<br>
+-The Bronx: 24<br>
 -Manhattan: 28
